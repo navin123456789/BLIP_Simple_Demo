@@ -19,10 +19,8 @@ The app is built with [Gradio](https://gradio.app/) to provide an easy-to-use we
 *Caption generated for huggingface.co/dataset ie cat.png*
 ![Demo Screenshot 1](Demo_SS/huggingface.png)  
 
-*Caption generated of Ashok Sir Image.*
-![Demo Screenshot 2](Demo_SS/unseen_1.png)  
 
-*Caption generated of Elephant Polo Game.*
+*Caption generated for Elephant Polo Game.*
 ![Demo Screenshot 3](Demo_SS/unseen_2.png)  
 
 
